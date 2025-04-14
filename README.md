@@ -66,3 +66,6 @@ Bloom is a web-based mental wellness application designed to support emotional w
 - All user interactions maintain strict confidentiality
 
 ---
+
+[Visit Bloom Wellness](https://bloomwellness.vercel.app)
+
